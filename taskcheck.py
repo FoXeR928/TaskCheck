@@ -10,6 +10,7 @@ def start():
     return mainloop()
 
 def open_photoshop():
+    #Путь к программе
     startfile(r"Запуск программы")
 
 def task1():
